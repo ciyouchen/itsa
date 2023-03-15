@@ -1,0 +1,11 @@
+﻿
+#include <iostream>
+
+int main()
+{
+	int a, b, c, d, e;
+
+
+	return 0;
+}
+
